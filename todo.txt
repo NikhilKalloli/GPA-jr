@@ -1,0 +1,3 @@
+Warning of Session state API
+If app reboots then all logs will be lost, so find a way to do that -> Does streamlit provide some tool to view them just like GCP does?
+Try Scaling for CSE allied branches

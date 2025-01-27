@@ -1,0 +1,14 @@
+[
+    {
+        "subject_code": "CS31",
+        "leading_letters": "CS",
+        "subject_name": "Linear Algebra and Laplace  Transforms  Mathematics  BSC",
+        "total_credits": 7
+    },
+    {
+        "subject_code": "CS41",
+        "leading_letters": "CS",
+        "subject_name": "Numerical Techniques and Probability  Models  Mathematics  BSC",
+        "total_credits": 7
+    }
+]

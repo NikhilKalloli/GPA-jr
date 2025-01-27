@@ -1,0 +1,53 @@
+[
+    {
+        "Branch": "BT",
+        "Batch": "2028",
+        "Subjects": [
+            {
+                "SubjectName": "Software Engineering and Modelling",
+                "SubjectCode": "CS51",
+                "Credit": "3"
+            },
+            {
+                "SubjectName": "Artificial Intelligence and Machine Learning",
+                "SubjectCode": "CS52",
+                "Credit": "3"
+            },
+            {
+                "SubjectName": "Database Systems",
+                "SubjectCode": "CS53",
+                "Credit": "3"
+            },
+            {
+                "SubjectName": "Operating Systems",
+                "SubjectCode": "CS54",
+                "Credit": "4"
+            },
+            {
+                "SubjectName": "Cryptography and Network Security",
+                "SubjectCode": "CS555",
+                "Credit": "3"
+            },
+            {
+                "SubjectName": "Database Laboratory",
+                "SubjectCode": "CSL56",
+                "Credit": "1"
+            },
+            {
+                "SubjectName": "Advanced Java Programming Laboratory",
+                "SubjectCode": "CSL57",
+                "Credit": "1"
+            },
+            {
+                "SubjectName": "Research Methodology & Intellectual property rights",
+                "SubjectCode": "AL58",
+                "Credit": "3"
+            },
+            {
+                "SubjectName": "Ability Enhancement Course-V",
+                "SubjectCode": "AEC510",
+                "Credit": "1"
+            }
+        ]
+    }
+]
